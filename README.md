@@ -5,5 +5,5 @@ My current training at Utiva included a Capstone Project focused on the Maven to
 
 ## Problem statement 
 -  Which product categories drive the biggest profits? Is this the same across store locations? 
-- 2. How much money is tied up in inventory at the toy stores? How long will it last?
-- 3. Are sales being lost with out-of-stock products at certain locations?
+-  How much money is tied up in inventory at the toy stores? How long will it last?
+-  Are sales being lost with out-of-stock products at certain locations?
